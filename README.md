@@ -2,14 +2,14 @@
 Sharing what I'm learning everyday in Data Structures And Algorithms
 ## Topics Covered 
 - [Basics C++](https://www.w3schools.com/cpp/cpp_intro.asp)
-- [Arrays & Strings](https://github.com/ArslanYM/DataStructrues-Algo/tree/main/Algorithms/Arrays) 
+- [Arrays & Strings](https://github.com/Tamilarasan20225/Algorithms/Arrays/) 
 - Sorting
 - Searching
 - Recursion
 - Math
 - Bitwise Operators
-- Two Pointers 
-- Linked List
+- [Two Pointers](https://github.com/Tamilarasan20225/Algorithms/Arrays/Two_Pointers/) 
+- [Linked List](https://github.com/Tamilarasan20225/Algorithms/Arrays/Linked_List)
 
 
 
